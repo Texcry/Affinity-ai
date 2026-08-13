@@ -1,11 +1,10 @@
-
 Readme · MD
 <div align="center">
 # Affinity AI
  
-**AI-first рабочее пространство для организаций**
+** Ai-birinchi tashkilotlar uchun ish maydoni**
  
-Продукт компании **M-TECH**, Ташкент, Узбекистан
+Kompaniya mahsuloti** M-TECH**, Toshkent, O'zbekiston
  
 [![Демо](https://img.shields.io/badge/Демо-affinity--ai.uz-4A2EDD?style=for-the-badge)](https://affinity-ai.uz/)
 [![Статус](https://img.shields.io/badge/Исходный_код-закрытый-1A1A2E?style=for-the-badge)](#доступ-к-исходному-коду)
@@ -13,84 +12,84 @@ Readme · MD
 </div>
 ---
  
-> ### ⚠️ Здесь нет исходного кода
+> # # # ️ ️ Bu erda manba kodi yo'q
 >
-> Этот репозиторий содержит **только описание проекта**.
+> Ushbu omborda * * faqat loyiha tavsifi * * mavjud.
 >
-> Исходный код Affinity AI закрыт и находится в приватном репозитории. Отдельные части,
-> фрагменты или модули по запросу **не передаются** — доступ выдаётся только целиком и
-> только после личного согласования.
+> Affinity AI manba kodi yopiq va shaxsiy omborda joylashgan. Alohida qismlar,
+> talab bo'yicha parchalar yoki modullar * * uzatilmaydi* * - kirish faqat to'liq va
+> faqat shaxsiy kelishuvdan keyin.
 >
-> Чтобы получить доступ — [свяжитесь со мной](#доступ-к-исходному-коду).
+> Kirish uchun-[men bilan bog'laning](#kirish-manba-kod).
  
 ---
  
-## Посмотреть продукт в работе
+## Ishda mahsulotni ko'ring
  
 ### 🔗 [affinity-ai.uz](https://affinity-ai.uz/)
  
-Рабочая версия доступна онлайн. Это самый быстрый способ оценить возможности
-платформы — без запросов, согласований и доступа к коду.
+Ishlaydigan versiya internetda mavjud. Bu imkoniyatlarni baholashning eng tezkor usuli
+platformalar-so'rovlar, tasdiqlashlar va kodga kirish imkoni yo'q.
  
 ---
  
-## О проекте
+## Loyiha haqida
  
-Affinity AI — рабочее пространство, построенное вокруг искусственного интеллекта:
-диалог, проекты, документы, файлы и долговременная память в одной системе.
+Affinity AI-sun'iy intellekt atrofida qurilgan ish maydoni:
+dialog, loyihalar, hujjatlar, fayllar va bitta tizimdagi uzoq muddatli xotira.
  
-Ключевое отличие — **суверенность**. Платформа разворачивается на инфраструктуре
-заказчика, включая закрытые контуры без доступа в интернет. Данные не покидают
-периметр организации.
+Asosiy farq * * suverenitet**. Platforma infratuzilmada rivojlanmoqda
+mijoz, shu jumladan internetga ulanmasdan yopiq konturlar. Ma'lumotlar ketmaydi
+tashkilotning perimetri.
  
-### Возможности
+### Imkoniyatlar
  
 | | |
 |---|---|
-| **Диалог с ИИ** | Многошаговые задачи, работа с контекстом проекта и загруженными файлами |
-| **Проекты и знания** | Структурирование работы, накопление и переиспользование знаний |
-| **Документы** | Генерация отчётов, презентаций и таблиц в готовых форматах |
-| **Семантический поиск** | Поиск по смыслу с учётом морфологии узбекского и русского языков |
-| **Автономные задачи** | Длительные задачи выполняются в фоне без участия пользователя |
-| **Совместная работа** | Обновления в реальном времени, разграничение прав доступа |
+/ * * AI bilan suhbat * * |ko'p bosqichli vazifalar, loyiha konteksti va yuklab olingan fayllar bilan ishlash / 
+/ * * Loyihalar va bilimlar * | |ishni tuzish, bilimlarni to'plash va qayta ishlatish / 
+| ** Hujjatlar * * / tayyor formatlarda hisobotlar, taqdimotlar va jadvallar yaratish |
+| ** Semantik qidiruv * * / o'zbek va rus tillarining morfologiyasini hisobga olgan holda ma'no bo'yicha qidirish |
+/ * * Avtonom vazifalar * * / uzoq muddatli vazifalar foydalanuvchi ishtirokisiz fonda bajariladi |
+| ** Hamkorlik * * / Real vaqtda yangilanishlar, kirish huquqlarini farqlash |
  
-### Технологии
+### Texnologiyalar
  
 **Frontend** — React, Vite, Tailwind CSS
-**Backend** — Node.js, Fastify, PostgreSQL, Redis, S3-совместимое хранилище
-**ИИ** — подключается к локальным моделям или к внешним провайдерам; смена провайдера
-не требует изменений в коде
-**Развёртывание** — Docker, автоматический HTTPS, резервное копирование
+**Backend** — Node.js, Fastify, PostgreSQL, Redis, S3-ga mos keladigan xotira
+** AI * * - mahalliy modellarga yoki tashqi provayderlarga ulanadi; provayderni o'zgartirish
+kodni o'zgartirishni talab qilmaydi
+** Joylashtirish* * - Docker, avtomatik HTTPS, zaxira nusxasi
  
-### Локализация
+### Mahalliylashtirish
  
-Интерфейс и обработка запросов рассчитаны на **узбекский** язык в первую очередь,
-с полной поддержкой русского и английского.
+Interfeys va so'rovlarni qayta ishlash birinchi navbatda **o'zbek** tiliga mo'ljallangan,
+rus va ingliz tillarini to'liq qo'llab-quvvatlash bilan.
  
 ---
  
-## Доступ к исходному коду
+## Manba kodiga kirish
  
-Доступ к приватному репозиторию выдаётся персонально, после короткого разговора.
-Напишите или позвоните — расскажу о проекте и открою доступ.
+Shaxsiy omborga kirish qisqa suhbatdan so'ng shaxsan beriladi.
+Yozing yoki qo'ng'iroq qiling — men sizga loyiha haqida gapirib beraman va kirishni ochaman.
  
-| Способ связи | Контакт |
+| Aloqa usuli |aloqa / 
 |---|---|
 | **Telegram** | [@tex_cry](https://t.me/tex_cry) |
-| **Телефон** | [+998 90 128 12 56](tel:+998901281256) |
-| **Телефон** | [+998 20 000 28 35](tel:+998200002835) |
+/ * * Telefon** | [+998 90 128 12 56](tel:+998901281256) |
+/ * * Telefon** | [+998 20 000 28 35](tel:+998200002835) |
  
-**Диёрбек Исмоилов** — M-TECH
+** Dierbek Ismoilov * * - M-TECH
  
-При обращении коротко опишите, кто вы и с какой целью нужен доступ — так я отвечу быстрее.
+Murojaat qilayotganda, kimligingizni va qanday maqsadda kirishingiz kerakligini qisqacha tasvirlab bering — shuning uchun men tezroq javob beraman.
  
 ---
  
 <div align="center">
-**© 2026 M-TECH. Все права защищены.**
+**© 2026 M-TECH. Barcha huquqlar himoyalangan.**
  
-Исходный код, архитектура и материалы проекта являются интеллектуальной собственностью
-M-TECH. Копирование, распространение и использование без письменного разрешения запрещены.
+Loyihaning manba kodi, arxitekturasi va materiallari intellektual mulkdir
+M-TECH. Yozma ruxsatisiz nusxalash, tarqatish va ishlatish taqiqlanadi.
  
 </div>
  
